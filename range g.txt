@@ -1,0 +1,71 @@
+for i in range(1:10:2)
+// note:  we can slice use this method in list or string
+
+
+
+
+def my func():
+	return 'Helloooo'
+
+my func()
+print(my func())
+
+
+
+
+def greet (name):
+	return f'welcome to python programing (name)'
+
+greet("chichi")
+'welcome to python programing chichi'
+number = 0
+number = 'helolo'
+
+greet(1)
+welcome to python programing 1
+
+greet (hannah)
+welcome to python programing hannah'
+
+// list
+
+numbers = list(range(1,11))
+print(numbers)
+
+def square_list(lst):
+	result = []
+	for item in lst:
+		result.append(item **2)
+	return result
+
+square_list(numbers)
+[1,4,9,16,25,36,49,64,81,100]
+
+
+//list of numbers
+list(range(10))
+
+//list of names
+list('marvellous')
+
+
+//list 
+
+def square2(nums):
+	"""squares up list and return a list with all items squareserd"""
+	result = []
+	for i in nums;
+		result += [i ** 2]
+
+square2(numbers)
+print(square2(numbers))
+
+
+def square2(nums):
+	"""squares a list"""
+	result =[]
+	for i in nums:
+		result += [1 ** 2]
+
+square2(numbers)
+
