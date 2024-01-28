@@ -2,7 +2,7 @@ even = []
 position = int(input("Enter the size:"))
 
 for i in range(position):
-	number= input("Enter element")
+	number= input("Enter element:")
 	even.append(number)
 
 print(even)

@@ -8,4 +8,4 @@ def largestnumber(numbers):
 	return biggest_num
 
 largestnumber(numbers)
-print(largestnumber(numbers))
+print(largestnumber([1,24,2,13,10,2]))
